@@ -1,0 +1,12 @@
+# Python venv
+codeenv/
+.env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
